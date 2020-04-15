@@ -1,0 +1,16 @@
+.onlyOne {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2em;
+    margin: 2em;
+    color: white;
+}
+
+body{
+    background-color: #666666;
+}
+
+.goatMode{
+    
+}
